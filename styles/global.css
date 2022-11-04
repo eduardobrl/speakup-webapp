@@ -1,0 +1,12 @@
+#__next, html {
+    height: 100%;
+}
+
+body {
+    background-color: #1D0F4A;
+    color: white;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
